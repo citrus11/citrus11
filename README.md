@@ -1,6 +1,6 @@
 ###  Hi there 👋 I am CITRUS
 
-<img src="https://count.getloli.com/get/@github.readme">
+<img src="https://count.getloli.com/get/@github.readme" alt="服务暂时不可用！">
 
 ####  💻FE  |  ⚙️Work is to liberate life  |  🙂Try to do best
 
