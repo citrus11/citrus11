@@ -14,8 +14,3 @@
 ####  🔖  Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citrus-11&layout=compact)](https://github.com/citrus-11)
-
-
-####  :sparkling_heart:  Chatroom
-
-<a href="https://chat.getloli.com/room/@citrus-11.github?title=CITRUS-chatroom"><img src="https://chat.getloli.com/room/@citrus-11.github/svg?width=600&height=280&limit=20&theme=light&title=citrus-11@github:%20~&fontSize=13" align="left" alt="服务暂时不可用！" />
