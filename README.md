@@ -4,7 +4,7 @@
 
 #### 💻Full stack | ⚙️Increase assets, reduce liabilities | 🙂OCD
 
-[![CITRUS's github stats](https://github-readme-stats.vercel.app/api?username=citrus-11&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![CITRUS's github stats](https://github-readme-stats.vercel.app/api?username=citrus1101&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🏠  Welcome to my blog: Closed
 - 💬  Ask me about anything as long as I can
@@ -13,4 +13,4 @@
 
 ####  🔖  Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citrus-11&layout=compact)](https://github.com/citrus-11)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1101&layout=compact)](https://github.com/citrus1101)
