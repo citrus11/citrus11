@@ -11,6 +11,6 @@
 - 📨 How to reach me: citrus11@foxmail.com
 - 📢 My slogan: 风立ちぬ、いざ生きめやも
 
-####  🔖  Languages
+#### 🧰 Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=citrus1101&layout=compact)](https://github.com/citrus1101)
